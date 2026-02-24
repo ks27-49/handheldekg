@@ -1,1 +1,3 @@
-HOSA med innovation project: includes reader+ ml alg
+HOSA med innovation project: includes reader+ ml alg. project is 2 components: (bio-degradable gel patch) and attachable ML electronics module.
+technology is minimal: small and is to be placed at V3 region on chest and will detect morphology based on lead I, II and V3 outputs (check code) 
+in the datareader.py
